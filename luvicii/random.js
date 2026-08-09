@@ -1,1 +1,1 @@
-var posts=["2026/08/09/ai-yayi/","2026/08/09/hello-world/","2025/06/16/强风吹拂-a-beautiful-story/","2024/06/17/我的卡托维兹之旅/","2026/08/08/测试推送文章/","2026/08/08/明日香/"];function toRandomPost(){pjax.loadUrl("/"+posts[Math.floor(Math.random()*posts.length)])}
+var posts=["2026/08/09/ai-yayi/","2026/08/09/hello-world/","2026/08/09/初音未来/","2025/06/16/强风吹拂-a-beautiful-story/","2024/06/17/我的卡托维兹之旅/","2026/08/08/明日香/","2026/08/08/测试推送文章/"];function toRandomPost(){pjax.loadUrl("/"+posts[Math.floor(Math.random()*posts.length)])}
