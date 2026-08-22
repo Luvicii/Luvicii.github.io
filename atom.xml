@@ -10,24 +10,7 @@
   <rights>All rights reserved 2026, Luvicii</rights>
   <subtitle>生活明朗，万物可爱</subtitle>
   <title>Luvicii</title>
-  <updated>2026-08-22T06:33:16.361Z</updated>
-  <entry>
-    <author>
-      <name>Luvicii</name>
-    </author>
-    <category term="风骚的我" scheme="https://luvicii.github.io/categories/%E9%A3%8E%E9%AA%9A%E7%9A%84%E6%88%91/"/>
-    <content>
-      <![CDATA[<p>Welcome t</p>]]>
-    </content>
-    <id>https://luvicii.github.io/2026/08/22/hello-world/</id>
-    <link href="https://luvicii.github.io/2026/08/22/hello-world/"/>
-    <published>2026-08-22T06:33:16.361Z</published>
-    <summary>
-      <![CDATA[<p>Welcome]]>
-    </summary>
-    <title>Hello, Counter-Strick</title>
-    <updated>2026-08-22T06:33:16.361Z</updated>
-  </entry>
+  <updated>2026-08-22T06:32:49.000Z</updated>
   <entry>
     <author>
       <name>Luvicii</name>
@@ -46,7 +29,7 @@
       <![CDATA[<p>维果茨基（也译维果斯基）是苏联著名心理学家、社会文化历史学派（维列鲁学派）创始人，社会建构主义的理论奠基人。他的<strong>文化-历史发展理论</strong>从社会文化与人际互动的视角解释人类高级认知能力的起源，与皮亚杰”个体自发建构”的视角形成经典互补，是教育学、教]]>
     </summary>
     <title>维果茨基文化-历史发展理论</title>
-    <updated>2026-08-22T06:33:16.361Z</updated>
+    <updated>2026-08-22T06:32:49.000Z</updated>
   </entry>
   <entry>
     <author>
@@ -69,7 +52,7 @@
 <h2 id="一、理论核心：建构主义的发展观"><a]]>
     </summary>
     <title>皮亚杰认知发展理论</title>
-    <updated>2026-08-22T06:33:16.361Z</updated>
+    <updated>2026-08-20T13:08:28.000Z</updated>
   </entry>
   <entry>
     <author>
@@ -93,7 +76,7 @@
 <p><meting-js]]>
     </summary>
     <title>初音未来：虚拟歌姬的十六年</title>
-    <updated>2026-08-22T06:33:16.361Z</updated>
+    <updated>2026-08-09T04:00:00.000Z</updated>
   </entry>
   <entry>
     <author>
@@ -116,7 +99,7 @@
 <h1 id="什么是愛压抑？"><a href="#什么是愛压抑？" class="headerlink"]]>
     </summary>
     <title>愛压抑！</title>
-    <updated>2026-08-22T06:33:16.361Z</updated>
+    <updated>2026-08-09T01:00:00.000Z</updated>
   </entry>
   <entry>
     <author>
@@ -139,7 +122,7 @@
 <h1 id="序：红色的身影"><a href="#序：红色的身影" class="headerlink"]]>
     </summary>
     <title>明日香：热烈而破碎的火焰</title>
-    <updated>2026-08-22T06:33:16.361Z</updated>
+    <updated>2026-08-08T08:00:00.000Z</updated>
   </entry>
   <entry>
     <author>
@@ -149,7 +132,24 @@
     <link href="https://luvicii.github.io/2026/08/08/%E6%B5%8B%E8%AF%95%E6%8E%A8%E9%80%81%E6%96%87%E7%AB%A0/"/>
     <published>2026-08-08T06:00:42.000Z</published>
     <title>测试推送文章</title>
-    <updated>2026-08-22T06:33:16.361Z</updated>
+    <updated>2026-08-08T06:00:42.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Luvicii</name>
+    </author>
+    <category term="风骚的我" scheme="https://luvicii.github.io/categories/%E9%A3%8E%E9%AA%9A%E7%9A%84%E6%88%91/"/>
+    <content>
+      <![CDATA[<p>Welcome t</p>]]>
+    </content>
+    <id>https://luvicii.github.io/2025/06/17/hello-world/</id>
+    <link href="https://luvicii.github.io/2025/06/17/hello-world/"/>
+    <published>2025-06-17T05:45:00.000Z</published>
+    <summary>
+      <![CDATA[<p>Welcome]]>
+    </summary>
+    <title>Hello, Counter-Strick</title>
+    <updated>2025-06-17T05:45:00.000Z</updated>
   </entry>
   <entry>
     <author>
@@ -166,7 +166,7 @@
       <![CDATA[<h2 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h2><h3 id="在《鸣潮》中交付声匣主要有以下两个地点："><a]]>
     </summary>
     <title>强风吹拂 a beautiful story</title>
-    <updated>2026-08-22T06:33:16.361Z</updated>
+    <updated>2025-06-16T23:58:53.000Z</updated>
   </entry>
   <entry>
     <author>
@@ -186,6 +186,6 @@
 <li>🏭]]>
     </summary>
     <title>我的卡托维兹之旅</title>
-    <updated>2026-08-22T06:33:16.361Z</updated>
+    <updated>2024-06-17T00:43:43.000Z</updated>
   </entry>
 </feed>
