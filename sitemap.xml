@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://luvicii.github.io/about/index.html</loc>
-    
-    <lastmod>2026-08-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://luvicii.github.io/comments/index.html</loc>
     
     <lastmod>2026-08-27</lastmod>
@@ -39,6 +30,15 @@
   
   <url>
     <loc>https://luvicii.github.io/json/music.json</loc>
+    
+    <lastmod>2026-08-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://luvicii.github.io/about/index.html</loc>
     
     <lastmod>2026-08-27</lastmod>
     
