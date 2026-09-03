@@ -38,6 +38,15 @@
   </url>
   
   <url>
+    <loc>https://luvicii.github.io/about/index.html</loc>
+    
+    <lastmod>2026-09-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://luvicii.github.io/air-conditioner/index.html</loc>
     
     <lastmod>2026-09-03</lastmod>
@@ -47,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://luvicii.github.io/about/index.html</loc>
+    <loc>https://luvicii.github.io/2026/09/03/%E6%95%99%E8%82%B2%E5%BF%83%E7%90%86%E5%AD%A6%E7%99%BE%E5%B9%B4%E6%B1%9F%E6%B9%96%EF%BC%9A%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA%E5%8F%91%E5%B1%95%E4%B8%B2%E8%AE%B0/</loc>
     
     <lastmod>2026-09-03</lastmod>
     
@@ -417,14 +426,14 @@
   </url>
   
   <url>
-    <loc>https://luvicii.github.io/tags/%E6%80%A7%E5%88%AB%E5%B7%AE%E5%BC%82/</loc>
+    <loc>https://luvicii.github.io/tags/CS2/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://luvicii.github.io/tags/CS2/</loc>
+    <loc>https://luvicii.github.io/tags/%E6%80%A7%E5%88%AB%E5%B7%AE%E5%BC%82/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -461,14 +470,14 @@
 
   
   <url>
-    <loc>https://luvicii.github.io/categories/%E5%8A%A8%E7%94%BB/</loc>
+    <loc>https://luvicii.github.io/categories/%E9%A3%8E%E9%AA%9A%E7%9A%84%E6%88%91/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://luvicii.github.io/categories/%E9%A3%8E%E9%AA%9A%E7%9A%84%E6%88%91/</loc>
+    <loc>https://luvicii.github.io/categories/%E5%8A%A8%E7%94%BB/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
