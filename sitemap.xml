@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://luvicii.github.io/comments/index.html</loc>
-    
-    <lastmod>2026-09-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://luvicii.github.io/essay/index.html</loc>
-    
-    <lastmod>2026-09-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://luvicii.github.io/json/music.json</loc>
     
     <lastmod>2026-09-07</lastmod>
@@ -48,6 +30,24 @@
   
   <url>
     <loc>https://luvicii.github.io/air-conditioner/index.html</loc>
+    
+    <lastmod>2026-09-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://luvicii.github.io/comments/index.html</loc>
+    
+    <lastmod>2026-09-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://luvicii.github.io/essay/index.html</loc>
     
     <lastmod>2026-09-07</lastmod>
     
@@ -263,15 +263,6 @@
   </url>
   
   <url>
-    <loc>https://luvicii.github.io/2024/06/17/%E6%88%91%E7%9A%84%E5%8D%A1%E6%89%98%E7%BB%B4%E5%85%B9%E4%B9%8B%E6%97%85/</loc>
-    
-    <lastmod>2024-06-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://luvicii.github.io/album/index.html</loc>
     
     <lastmod>2022-10-23</lastmod>
@@ -433,13 +424,6 @@
   </url>
   
   <url>
-    <loc>https://luvicii.github.io/tags/CS2/</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://luvicii.github.io/tags/%E7%9A%AE%E4%BA%9A%E6%9D%B0/</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -499,13 +483,6 @@
   
   <url>
     <loc>https://luvicii.github.io/categories/%E8%B7%91%E6%AD%A5/</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://luvicii.github.io/categories/CS2/</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
