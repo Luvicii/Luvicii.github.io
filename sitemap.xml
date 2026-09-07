@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://luvicii.github.io/link/index.html</loc>
+    <loc>https://luvicii.github.io/about/index.html</loc>
     
     <lastmod>2026-09-07</lastmod>
     
@@ -12,15 +12,6 @@
   
   <url>
     <loc>https://luvicii.github.io/air-conditioner/index.html</loc>
-    
-    <lastmod>2026-09-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://luvicii.github.io/about/index.html</loc>
     
     <lastmod>2026-09-07</lastmod>
     
@@ -39,6 +30,15 @@
   
   <url>
     <loc>https://luvicii.github.io/essay/index.html</loc>
+    
+    <lastmod>2026-09-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://luvicii.github.io/link/index.html</loc>
     
     <lastmod>2026-09-07</lastmod>
     
@@ -357,6 +357,13 @@
   </url>
   
   <url>
+    <loc>https://luvicii.github.io/tags/%E4%BA%BA%E6%A0%BC%E5%8F%91%E5%B1%95%E7%90%86%E8%AE%BA/</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://luvicii.github.io/tags/%E9%9F%B3%E4%B9%90/</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -372,13 +379,6 @@
   
   <url>
     <loc>https://luvicii.github.io/tags/VOCALOID/</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://luvicii.github.io/tags/%E4%BA%BA%E6%A0%BC%E5%8F%91%E5%B1%95%E7%90%86%E8%AE%BA/</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
