@@ -227,15 +227,6 @@
   </url>
   
   <url>
-    <loc>https://luvicii.github.io/2025/06/17/hello-world/</loc>
-    
-    <lastmod>2025-06-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://luvicii.github.io/2025/06/16/%E5%BC%BA%E9%A3%8E%E5%90%B9%E6%8B%82-a-beautiful-story/</loc>
     
     <lastmod>2025-06-16</lastmod>
@@ -403,14 +394,14 @@
   </url>
   
   <url>
-    <loc>https://luvicii.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA/</loc>
+    <loc>https://luvicii.github.io/tags/%E8%87%AA%E6%88%91%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B/</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://luvicii.github.io/tags/%E8%87%AA%E6%88%91%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B/</loc>
+    <loc>https://luvicii.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA/</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -424,14 +415,14 @@
   </url>
   
   <url>
-    <loc>https://luvicii.github.io/tags/%E7%9A%AE%E4%BA%9A%E6%9D%B0/</loc>
+    <loc>https://luvicii.github.io/tags/%E7%BB%B4%E6%9E%9C%E8%8C%A8%E5%9F%BA/</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://luvicii.github.io/tags/%E7%BB%B4%E6%9E%9C%E8%8C%A8%E5%9F%BA/</loc>
+    <loc>https://luvicii.github.io/tags/%E7%9A%AE%E4%BA%9A%E6%9D%B0/</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -455,13 +446,6 @@
   
   <url>
     <loc>https://luvicii.github.io/categories/%E5%8A%A8%E7%94%BB/</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://luvicii.github.io/categories/%E9%A3%8E%E9%AA%9A%E7%9A%84%E6%88%91/</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
